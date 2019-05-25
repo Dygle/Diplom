@@ -1,2 +1,2 @@
-# Diplom
-College diploma
+
+College
